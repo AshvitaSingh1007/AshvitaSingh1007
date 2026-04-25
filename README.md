@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working freelancing<br>👩‍🎓 I’m about to graduate next year<br>🤝 self-taught generative AI, not a perfectionist, but trying to learn<br>🌱 I’m currently learning more about generative AI <br>💬 Dream to become an AI researcher <br>⚡ Fun Fact:  I have a habit of not trusting AI answers, so I question them, break them down, and make them justify themselves—which eventually led me to build systems that verify and improve them automatically.
+🔭 I’m currently working freelancing<br>👩‍🎓 I’m about to graduate next year<br>🤝 self-taught generative AI, not a perfectionist, but trying to learn<br>🌱 I’m currently learning more about generative AI <br>💬 Dream to become an AI Developer <br>⚡ Fun Fact:  I have a habit of not trusting AI answers, so I question them, break them down, and make them justify themselves—which eventually led me to build systems that verify and improve them automatically.
 
 
 # 💻 Tech Stack:
